@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "929542912220",
+    "project_id": "social-quote",
+    "storage_bucket": "social-quote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929542912220:android:6fc46ab0e369ad5ad1dc19",
+        "android_client_info": {
+          "package_name": "com.example.quoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929542912220-0bo88bcff44rlm7o3jica4gjonq4jifk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quoteapp",
+            "certificate_hash": "101124c527a874bee83d9b48cff67e93c5d9fcd4"
+          }
+        },
+        {
+          "client_id": "929542912220-hbe8clm69cq762un5mg7vp6fhlhh9bgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS-qD9bjQ9DY8rvunPBQ6zZKEtGRT8WEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929542912220-hbe8clm69cq762un5mg7vp6fhlhh9bgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
